@@ -1,0 +1,28 @@
+{
+  "version": "0.0.0",
+  "name": "file-uploader-directive",
+  "author": "Dev Team Inc. <contact@dev-team.com> (http://dev-team.com)",
+  "description": "AngularJS file uploader directive",
+  "main": "./index.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "load-grunt-tasks": "^3.5.0"
+  },
+  "keywords": [
+    "angualrJS",
+    "file",
+    "uploader",
+    "directive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTeamHub/file-uploader-directive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevTeamHub/file-uploader-directive/issues"
+  },
+  "homepage": "https://github.com/DevTeamHub/file-uploader-directive#readme"
+}
